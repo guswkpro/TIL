@@ -10,6 +10,7 @@ Nginx는 가벼우면서 높은 성능을 지향한다.
 Nginx는 요청에 응답하기 위해 비동기 이벤트 기반 구조를 가지며, 아파치 서버와는 대조적이다.
 
 ![All text](/img/점유율.PNG)
+출처 : https://news.netcraft.com/archives/category/web-server-survey/
 
 아파치 서버는 2012년부터 지속적인 하향세를 보여왔으며, 현재는 마이크로소프트가 42%, nginx가 22%, Apache가 19%의 시장점유율을 갖고 있다.
 
