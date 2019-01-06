@@ -6,13 +6,11 @@
 기본적으로 모듈을 만들기 위해서는 exports 객체의 속성이나 메소드를 정의해주면 되는것이 맞다.
 > // cicle.js<br>
 var PI = Math.PI;<br>
- <br>
 exports.area = function (r) {<br>
-    return PI * r * r;<br>
+　　return PI * r * r;<br>
 };<br>
- <br>
 exports.circumference = function (r) {<br>
-    return 2 * PI * r;<br>
+　　return 2 * PI * r;<br>
 };<br>
 
 >// foo.js<br>
@@ -26,11 +24,11 @@ exports는 속성이나 메소드를 여러 개 정의할 수 있지만, module.
 
 >// square.js<br>
 module.exports = function(width) {<br>
-    return {<br>
-        area: function() {<br>
-                return width * width;<br>
-           }<br>
-    };<br>
+　　return {<br>
+　　　　area: function() {<br>
+　　　　　　return width * width;<br>
+　　　　}<br>
+　　};<br>
 }<br>
 
 > // bar.js<br>
