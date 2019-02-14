@@ -21,3 +21,8 @@ AP (Application Processor or PDA): Android.
 CP (Core Processor): We call it Modem.
 ```
 [출처] : https://android.stackexchange.com/questions/176515/what-do-the-terms-bl-ap-cp-and-csc-mean-in-odin
+
+더 자세한 내용은 아래에 정리되어 있다.
+```
+https://huriman.tistory.com/99
+```
