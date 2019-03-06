@@ -11,8 +11,8 @@
 ```
 과정을 짧게 서술해 보았는데, 실제 실행되는 내부를 살펴보니 쉘 스크립트로 되어있어서 이해하기가 난해하다.<br>
 
-![1](/img/rooting_order_2.PNG)
+![1](/Image/rooting_order_2.PNG)
 
-![2](/img/rooting_order_1.PNG)
+![2](/Image/rooting_order_1.PNG)
 
 이해하기위해선 쉘스크립트에 대한 이해와 첫줄부터 천천히 읽어봐야 할 것 같다...

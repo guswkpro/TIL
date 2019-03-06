@@ -9,7 +9,7 @@ Nginx는 가벼우면서 높은 성능을 지향한다.
 
 Nginx는 요청에 응답하기 위해 비동기 이벤트 기반 구조를 가지며, 아파치 서버와는 대조적이다.
 
-![All text](/img/점유율.PNG)
+![All text](/Image/점유율.PNG)
 
 출처 : https://news.netcraft.com/archives/category/web-server-survey/
 

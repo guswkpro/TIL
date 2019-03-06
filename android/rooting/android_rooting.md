@@ -11,7 +11,7 @@
 갤럭시 루팅을 하기 위해선 Odin이라는 삼성에서 제공하는 다운로드 툴이 필요하다.<br>
 이 Odin을 사용하다 보면 생소한 단어를 마주치게 되는데.<br>
 
-![Odin](/img/Odin.PNG)
+![Odin](/Image/Odin.PNG)
 BL AP CP CSC 라는 축약어가 나와있다. 이들의 의미는 다음과 같다.
 ```
 CSC (Consumer Software Customization): It is specific to geographical region and carriers. It contains the software packages specific to that region, carrier branding and APN setting.

@@ -14,4 +14,4 @@
 
 이 과정을 거치면 된다. 다른 과정은 검색하면 충분히 찾을 수 있으니 업로드하지않고 설정파일을 어떻게 수정하면되는지만 업로드 한다.
 
-![Edit setting](/img/default.prop.PNG)
+![Edit setting](/Image/default.prop.PNG)

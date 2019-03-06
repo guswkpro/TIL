@@ -19,7 +19,7 @@ https://www.ietf.org/standards/rfcs/ 에서 확인할 수 있다.
 
 미국 국제 표준 기술연구소인 NIST에서도 다양하게 확인이 가능했으나 지금은
 
-![no money](/img/Nomoney.PNG)
+![no money](/Image/Nomoney.PNG)
 
 출처 : https://csrc.nist.gov/projects/cryptographic-algorithm-validation-program/block-ciphers
 

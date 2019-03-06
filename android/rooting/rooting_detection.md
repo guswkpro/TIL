@@ -21,7 +21,7 @@ Su 바이너리 탐지
 ps명령을 통해 eu.chainfire.supersu 프로세스가 작동중인 것을 확인이 가능하고<br>
 삼성 KNOX 보안 솔루션에서는 루팅을 아래 사진과 같이 카운팅 하기도 한다.<br>
 
-![1](/img/rooting_detection_1.PNG)
+![1](/Image/rooting_detection_1.PNG)
 
-![2](/img/rooting_detection_2.PNG)
+![2](/Image/rooting_detection_2.PNG)
 >KNOX WARRANTY VIOD : 1
