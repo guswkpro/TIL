@@ -1,9 +1,9 @@
 # Android Apktool
 
 Apktool은 
-```
-[USB Debugging](https://github.com/guswkpro/TIL/blob/master/android/usb_debugging.md)
-```
+
+[USB Debugging](https://github.com/guswkpro/TIL/blob/master/Android/apk_debuggable.md)
+
 에 설명하였는데, 사용 도중에 에러가 발생해서 그에 대한 내용을 업로드 하고자 한다.
 <br><br><br>
 apktool을 잘 사용하다가 아래와 같은 에러를 마주했는데
