@@ -4,7 +4,7 @@
 특정 명령어나 디버깅을 할 때 USB디버깅에 대한 키를 허용하도록 물어보게된다.
 그러나 boot.img를 아래와 같이 수정하게 되면
 
-![bootimg.img](/img/bootimg.PNG)
+![bootimg.PNG](/Image/bootimg.PNG)
 
 디버깅을 허용하겠냐는 다이얼로그가 뜨지 않는다.<br>
 위와 같은 설정을 하게 되면 모든 USB 경로에서 Authorized가 되어야 한다는데<br>
