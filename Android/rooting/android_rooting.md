@@ -26,3 +26,6 @@ CP (Core Processor): We call it Modem.
 ```
 https://huriman.tistory.com/99
 ```
+
+# 매일 추가하는 내용<br>
+1. TWRP는 FRP Lock이 걸려있는 상태에서는 설치 할 수 없다. ( 190320 )
